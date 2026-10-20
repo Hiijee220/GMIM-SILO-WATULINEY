@@ -34,67 +34,195 @@
   "columns": [
     {
       "name": "Kolom 1",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 2",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 3",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 4",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 5",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 6",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 7",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 8",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 9",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 10",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 11",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 12",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 13",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 14",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 15",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     },
     {
       "name": "Kolom 16",
-      "detail": ""
+      "detail": "",
+      "households": "",
+      "members": "",
+      "worshipDay": "",
+      "worshipTime": "",
+      "worshipPlace": "",
+      "coordinator": "",
+      "announcement": "",
+      "activities": ""
     }
   ],
   "contact": {
