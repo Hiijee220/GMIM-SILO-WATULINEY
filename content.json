@@ -1,0 +1,105 @@
+{
+  "site": {
+    "name": "GMIM SILO WATULINEY",
+    "tagline": "Media informasi, persekutuan, dan pelayanan jemaat.",
+    "welcome": "Bersama bertumbuh dalam iman, pengharapan, dan kasih."
+  },
+  "profile": {
+    "history": "Sejarah berdirinya gereja akan dilengkapi setelah diverifikasi oleh pengurus.",
+    "vision": "Visi gereja akan diperbarui oleh pengurus.",
+    "mission": "Misi gereja akan diperbarui oleh pengurus."
+  },
+  "worship": [
+    {
+      "title": "Ibadah Minggu",
+      "detail": "Jadwal dan lokasi resmi akan diumumkan."
+    },
+    {
+      "title": "Ibadah Kolom",
+      "detail": "Jadwal persekutuan masing-masing kolom akan diperbarui."
+    },
+    {
+      "title": "Pelayanan Kategorial",
+      "detail": "Jadwal kegiatan kategorial akan diumumkan."
+    }
+  ],
+  "announcements": [],
+  "events": [],
+  "ministries": [
+    {
+      "title": "Pelayanan Jemaat",
+      "detail": "Informasi pelayanan akan diperbarui."
+    }
+  ],
+  "columns": [
+    {
+      "name": "Kolom 1",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 2",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 3",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 4",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 5",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 6",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 7",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 8",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 9",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 10",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 11",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 12",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 13",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 14",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 15",
+      "detail": ""
+    },
+    {
+      "name": "Kolom 16",
+      "detail": ""
+    }
+  ],
+  "contact": {
+    "address": "Alamat sekretariat akan dikonfirmasi.",
+    "phone": "",
+    "email": ""
+  }
+}
