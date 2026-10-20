@@ -2,12 +2,17 @@
   "site": {
     "name": "GMIM SILO WATULINEY",
     "tagline": "Media informasi, persekutuan, dan pelayanan jemaat.",
-    "welcome": "Bersama bertumbuh dalam iman, pengharapan, dan kasih."
+    "welcome": "Bersama bertumbuh dalam iman, pengharapan, dan kasih.",
+    "logoUrl": "",
+    "buildingPhotoUrl": "",
+    "heroPhotoUrl": "",
+    "address": ""
   },
   "profile": {
     "history": "Sejarah berdirinya gereja akan dilengkapi setelah diverifikasi oleh pengurus.",
     "vision": "Visi gereja akan diperbarui oleh pengurus.",
-    "mission": "Misi gereja akan diperbarui oleh pengurus."
+    "mission": "Misi gereja akan diperbarui oleh pengurus.",
+    "historyPhotoUrl": ""
   },
   "worship": [
     {
@@ -228,6 +233,31 @@
   "contact": {
     "address": "Alamat sekretariat akan dikonfirmasi.",
     "phone": "",
-    "email": ""
+    "email": "",
+    "whatsapp": "",
+    "mapsUrl": "",
+    "officeHours": ""
+  },
+  "leadership": {
+    "pastor": "",
+    "chairperson": "",
+    "secretary": "",
+    "treasurer": "",
+    "bpmj": [],
+    "commissions": []
+  },
+  "gallery": [],
+  "appearance": {
+    "primaryColor": "#0b619f",
+    "accentColor": "#0b9bb5",
+    "heroTitle": "GMIM SILO WATULINEY",
+    "heroSubtitle": "Bersama bertumbuh dalam iman, pengharapan, dan kasih.",
+    "footerText": "Website informasi gereja"
+  },
+  "portal": {
+    "title": "Portal Pengurus GMIM SILO WATULINEY",
+    "welcome": "Sistem administrasi gereja sedang dikembangkan.",
+    "dashboardMessage": "Akses database jemaat dan keuangan memerlukan sistem login aman.",
+    "showModules": "Data Jemaat, Data KK, 16 Kolom, Jadwal Ibadah, Pelayanan, Keuangan, Laporan"
   }
 }
