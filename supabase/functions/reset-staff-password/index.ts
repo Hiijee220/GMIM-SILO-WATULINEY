@@ -27,7 +27,7 @@ Deno.serve(async (req) => {
   const password = body.new_password || '';
   if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(userId)) return reply(400, 'UID tidak valid');
   if (userId === auth.user.id) return reply(400, 'Gunakan Ubah Password Saya Sendiri');
-  if (password.length < 12 || password.length > 128) return reply(400, 'Password harus 12–128 karakter');
+  if (password.length < 8 || password.length > 128) return reply(400, 'Password harus 8–128 karakter');
   const { data: target, error: targetError } = await admin.from('staff_profiles').select('role').eq('user_id', userId).maybeSingle();
   if (targetError || !target) return reply(404, 'Akun pengurus tidak ditemukan');
   if (target.role === 'super_admin') return reply(403, 'Reset password Super Admin lain tidak diizinkan melalui fitur ini');
